@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Musyoka001
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python
+- 👀 I am a web developer and a network engineer.
+- 🌱 I love PHP and Python
 
 <!---
 Musyoka001/Musyoka001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
